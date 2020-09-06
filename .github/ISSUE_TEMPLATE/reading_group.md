@@ -1,7 +1,7 @@
 ---
-name: 論文読み回
-about: 週次の論文読み回用テンプレ
-title: "[2020/XX/XX] 論文読み回"
+name: 論文読み会
+about: 週次の論文読み会用テンプレ
+title: "[2020/XX/XX] 論文読み会"
 labels: Reading Group
 assignees: ''
 
